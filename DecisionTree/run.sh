@@ -1,1 +1,3 @@
+#!/bin/sh
+echo Executing python script...
 python Yingjie Lian's DecisionTree.py
